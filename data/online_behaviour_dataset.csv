@@ -1,0 +1,81 @@
+	Gender	Age	Nationality	Country	Civil_Status	Children	Annual_Gross_Salary	Internet_hours	Platform	Influencer_follow	Influencer_purchase_recommendation	Devices	Monthly_expense	Purchase_frequency_year	Online_Influenced_purchase	Purchase_Segment	Preferred_shop	More_buying_promoted_sale_days	Buying_target	Annual_Gross_Salary_mean	Internet_hours_mean	Age_mean	Monthly_expense_mean	Online_Influenced_purchase_mean	Average_ticket
+0	Man	18-35	Spanish	Spain	In a relationship	0	30.000-50.000	3-5	Youtube/Twitch	Yes	No	Computer, Mobile	1-50	4	0 %	Books	Marketplaces	Yes	Myself	40000	4.0	26.5	25	0.0	75.0
+1	Woman	18-35	Spanish	Spain	In a relationship	0	18.000-30.000	5-8	Instagram, Facebook,TikTok	Yes	Yes	Mobile	1-50	4	1-25 %	Books	Marketplaces	No	Myself	24000	6.5	26.5	25	33.0	75.0
+2	Woman	35-50	Spanish	Spain	Married	2	0-18.000	3-5	Instagram, Facebook,TikTok	Yes	Yes	Mobile	150-300	4	50-75 %	Clothes	Marketplaces	No	Family	9000	4.0	42.5	225	66.0	675.0
+3	Man	+50	Spanish	Spain	Married	3	+50.000	3-5	Instagram, Facebook,TikTok	No	No	Mobile	1-50	12	50-75 %	Other	Store	No	Family	50000	4.0	50.0	25	66.0	25.0
+4	Man	35-50	Spanish	Spain	Married	2	18.000-30.000	8	Youtube/Twitch	No	No	Computer, Mobile	+300	48	0 %	Electronics	Marketplaces	No	Myself	24000	8.0	42.5	300	0.0	75.0
+5	Man	18-35	Spanish	Spain	In a relationship	0	0-18.000	1-3	General Internet	Yes	Yes	Computer	+300	12	1-25 %	Food	Marketplaces	No	Myself	9000	2.0	26.5	300	33.0	300.0
+6	Woman	+50	Spanish	Spain	Single	2	+50.000	5-8	General Internet	No	No	Mobile	+300	48	50-75 %	Clothes	Marketplaces	No	Myself	50000	6.5	50.0	300	66.0	75.0
+7	Woman	35-50	Spanish	Spain	Married	2	18.000-30.000	1-3	Instagram, Facebook,TikTok	Yes	No	Mobile	50-150	4	0 %	Other	Marketplaces	No	Family	24000	2.0	42.5	100	0.0	300.0
+8	Man	18-35	Spanish	Spain	Single	0	0-18.000	3-5	Youtube/Twitch	Yes	No	Tablet	1-50	4	0 %	Video games	Marketplaces	No	Myself	9000	4.0	26.5	25	0.0	75.0
+9	Man	18-35	Spanish	Spain	Married	0	18.000-30.000	5-8	Youtube/Twitch	No	No	Computer	+300	6	0 %	Food	Marketplaces	Yes	Myself	24000	6.5	26.5	300	0.0	600.0
+10	Man	18-35	Spanish	Spain	Single	0	0-18.000	3-5	Instagram, Facebook,TikTok	Yes	No	Mobile	1-50	12	1-25 %	Clothes	Marketplaces	No	Myself	9000	4.0	26.5	25	33.0	25.0
+11	Woman	35-50	Spanish	Spain	Married	2	18.000-30.000	1-3	Instagram, Facebook,TikTok	Yes	Yes	Mobile	150-300	48	50-75 %	Clothes	Marketplaces	Yes	Family	24000	2.0	42.5	225	66.0	56.25
+12	Woman	18-35	Spanish	Spain	In a relationship	0	30.000-50.000	3-5	Instagram, Facebook,TikTok	Yes	Yes	Mobile	+300	48	50-75 %	Clothes	Marketplaces	No	Myself	40000	4.0	26.5	300	66.0	75.0
+13	Woman	18-35	Spanish	Spain	In a relationship	0	0-18.000	3-5	Instagram, Facebook,TikTok	Yes	Yes	Computer	50-150	4	1-25 %	Books	Store	No	Family	9000	4.0	26.5	100	33.0	300.0
+14	Woman	18-35	Spanish	Spain	In a relationship	0	0-18.000	5-8	General Internet	Yes	No	Computer, Mobile	50-150	2	1-25 %	Other	Store	No	Myself	9000	6.5	26.5	100	33.0	600.0
+15	Man	18-35	Spanish	Spain	Married	0	30.000-50.000	1-3	General Internet	Yes	Yes	Mobile	+300	48	50-75 %	Food	Marketplaces	No	Myself	40000	2.0	26.5	300	66.0	75.0
+16	Woman	18-35	Spanish	Spain	Single	0	0-18.000	5-8	Instagram, Facebook,TikTok	Yes	Yes	Mobile, Tablet	+300	12	50-75 %	Clothes	Marketplaces	Yes	Myself	9000	6.5	26.5	300	66.0	300.0
+17	Woman	18-35	Spanish	Spain	Single	0	0-18.000	5-8	Instagram, Facebook,TikTok	Yes	No	Mobile	50-150	12	1-25 %	Food	Store	No	Family	9000	6.5	26.5	100	33.0	100.0
+18	Man	35-50	Spanish	Spain	In a relationship	0	18.000-30.000	3-5	Youtube/Twitch	Yes	No	Mobile	1-50	12	0 %	Electronics	Marketplaces	No	Myself	24000	4.0	42.5	25	0.0	25.0
+19	Woman	18-35	Spanish	Spain	Single	0	30.000-50.000	5-8	Instagram, Facebook,TikTok	Yes	Yes	Mobile	150-300	48	1-25 %	Clothes	Marketplaces	Yes	Myself	40000	6.5	26.5	225	33.0	56.25
+20	Woman	18-35	Spanish	Spain	Single	0	0-18.000	1-3	Instagram, Facebook,TikTok	Yes	No	Mobile	1-50	6	1-25 %	Clothes	Marketplaces	Yes	Myself	9000	2.0	26.5	25	33.0	50.0
+21	Man	35-50	Italian 	Spain	In a relationship	1	18.000-30.000	3-5	Twitter	Yes	No	Computer, Mobile	50-150	12	1-25 %	Clothes	Marketplaces	Yes	Myself	24000	4.0	42.5	100	33.0	100.0
+22	Man	18-35	Spanish	Spain	In a relationship	0	30.000-50.000	1-3	Youtube/Twitch	Yes	Yes	Mobile	+300	12	1-25 %	Clothes	Marketplaces	Yes	Myself	40000	2.0	26.5	300	33.0	300.0
+23	Woman	18-35	Spanish	Spain	Single	0	18.000-30.000	8	Twitter	No	Yes	Mobile	1-50	4	50-75 %	Books	Marketplaces	No	Myself	24000	8.0	26.5	25	66.0	75.0
+24	Woman	18-35	Spanish	Spain	Single	3	0-18.000	3-5	Instagram, Facebook,TikTok	Yes	Yes	Computer, Mobile	50-150	12	1-25 %	Clothes	Marketplaces	No	Myself	9000	4.0	26.5	100	33.0	100.0
+25	Man	18-35	Spanish	Spain	In a relationship	0	0-18.000	5-8	Youtube/Twitch	No	No	Mobile	+300	12	1-25 %	Other	Marketplaces	Yes	Couple	9000	6.5	26.5	300	33.0	300.0
+26	Woman	18-35	Spanish	Spain	In a relationship	0	0-18.000	3-5	Instagram, Facebook,TikTok	Yes	Yes	Mobile	50-150	48	50-75 %	Clothes	Marketplaces	Yes	Myself	9000	4.0	26.5	100	66.0	25.0
+27	Woman	35-50	Spanish	Spain	Married	1	0-18.000	1-3	General Internet	Yes	Yes	Mobile	1-50	12	1-25 %	Other	Marketplaces	No	Family	9000	2.0	42.5	25	33.0	25.0
+28	Woman	+50	Spanish	Spain	Married	2	30.000-50.000	1-3	General Internet	No	No	Mobile	50-150	12	50-75 %	Electronics	Marketplaces	Yes	Family	40000	2.0	50.0	100	66.0	100.0
+29	Woman	35-50	Spanish	Spain	Married	1	18.000-30.000	1-3	Instagram, Facebook,TikTok	Yes	Yes	Mobile	50-150	12	1-25 %	Food	Store	No	Family	24000	2.0	42.5	100	33.0	100.0
+30	Woman	18-35	Spanish	Spain	Married	0	0-18.000	1-3	Instagram, Facebook,TikTok	No	No	Mobile	1-50	4	0 %	Clothes	Store	No	Myself	9000	2.0	26.5	25	0.0	75.0
+31	Woman	18-35	Spanish	Spain	In a relationship	0	18.000-30.000	3-5	Instagram, Facebook,TikTok	Yes	Yes	Mobile	150-300	12	50-75 %	Clothes	Store	No	Myself	24000	4.0	26.5	225	66.0	225.0
+32	Woman	35-50	Spanish	Spain	Single	0	30.000-50.000	1-3	Twitter	No	No	Mobile	1-50	12	1-25 %	Other	Marketplaces	No	Myself	40000	2.0	42.5	25	33.0	25.0
+33	Man	18-35	Spanish	Spain	In a relationship	0	30.000-50.000	0-1	General Internet	Yes	No	Mobile	+300	6	0 %	Electronics	Marketplaces	No	Myself	40000	0.5	26.5	300	0.0	600.0
+34	Woman	18-35	Spanish	Spain	Single	0	0-18.000	8	Instagram, Facebook,TikTok	Yes	Yes	Computer, Mobile	+300	12	1-25 %	Electronics	Marketplaces	No	Myself	9000	8.0	26.5	300	33.0	300.0
+35	Woman	+50	Spanish	Spain	Married	2	18.000-30.000	0-1	Instagram, Facebook,TikTok	No	No	Computer	50-150	6	0 %	Other	Store	No	Couple	24000	0.5	50.0	100	0.0	200.0
+36	Woman	35-50	Spanish	Spain	Single	2	0-18.000	1-3	Instagram, Facebook,TikTok	Yes	Yes	Mobile	150-300	12	1-25 %	Toys	Marketplaces	No	Family	9000	2.0	42.5	225	33.0	225.0
+37	Woman	35-50	Spanish	Spain	Married	3	18.000-30.000	3-5	Instagram, Facebook,TikTok	No	No	Computer, Mobile, Tablet	+300	12	1-25 %	Clothes	Store	Yes	Family	24000	4.0	42.5	300	33.0	300.0
+38	Man	18-35	Spanish	Spain	In a relationship	0	30.000-50.000	1-3	Twitter	Yes	Yes	Mobile	1-50	6	0 %	Books	Marketplaces	Yes	Family	40000	2.0	26.5	25	0.0	50.0
+39	Man	18-35	Spanish	Spain	Married	0	0-18.000	1-3	Twitter	No	No	Mobile	1-50	6	1-25 %	Other	Marketplaces	No	Myself	9000	2.0	26.5	25	33.0	50.0
+40	Man	18-35	Spanish	Spain	Single	0	18.000-30.000	1-3	Youtube/Twitch	Yes	No	Computer, Mobile, Tablet	1-50	6	1-25 %	Other	Marketplaces	Yes	Myself	24000	2.0	26.5	25	33.0	50.0
+41	Man	18-35	Spanish	Spain	In a relationship	0	18.000-30.000	3-5	Youtube/Twitch	Yes	No	Computer	50-150	2	0 %	Electronics	Marketplaces	No	Myself	24000	4.0	26.5	100	0.0	600.0
+42	Woman	18-35	Spanish	Spain	In a relationship	0	30.000-50.000	1-3	Instagram, Facebook,TikTok	Yes	No	Mobile	+300	48	1-25 %	Clothes	Marketplaces	Yes	Myself	40000	2.0	26.5	300	33.0	75.0
+43	Man	18-35	Spanish	Spain	Married	2	30.000-50.000	1-3	General Internet	No	No	Mobile, Tablet	+300	12	0 %	Sport	Marketplaces	Yes	Family	40000	2.0	26.5	300	0.0	300.0
+44	Woman	35-50	Spanish	Spain	Married	2	18.000-30.000	3-5	Instagram, Facebook,TikTok	Yes	Yes	Mobile	1-50	12	1-25 %	Clothes	Store	No	Family	24000	4.0	42.5	25	33.0	25.0
+45	Man	18-35	Spanish	Spain	Single	0	+50.000	8	General Internet	No	No	Computer	50-150	48	1-25 %	Clothes	Marketplaces	Yes	Myself	50000	8.0	26.5	100	33.0	25.0
+46	Woman	35-50	Spanish	Spain	Single	0	18.000-30.000	1-3	Instagram, Facebook,TikTok	No	No	Mobile	150-300	48	50-75 %	Clothes	Marketplaces	No	Myself	24000	2.0	42.5	225	66.0	56.25
+47	Woman	35-50	Spanish	Spain	In a relationship	2	30.000-50.000	1-3	Instagram, Facebook,TikTok	Yes	Yes	Mobile	+300	48	1-25 %	Books	Marketplaces	No	Myself	40000	2.0	42.5	300	33.0	75.0
+48	Man	18-35	Spanish	Spain	Married	1	+50.000	1-3	General Internet	No	No	Mobile	150-300	12	0 %	Other	Store	No	Family	50000	2.0	26.5	225	0.0	225.0
+49	Man	18-35	Spanish	Spain	Single	0	30.000-50.000	1-3	General Internet	Yes	No	Computer, Mobile	50-150	12	0 %	Electronics	Marketplaces	Yes	Myself	40000	2.0	26.5	100	0.0	100.0
+50	Man	18-35	Spanish	Spain	Single	0	18.000-30.000	0-1	Instagram, Facebook,TikTok	Yes	No	Mobile	150-300	6	0 %	Toys	Marketplaces	Yes	Family	24000	0.5	26.5	225	0.0	450.0
+51	Man	18-35	Spanish	Uk	Single	0	+50.000	3-5	Reddit	No	No	Mobile	+300	12	1-25 %	Electronics	Marketplaces	Yes	Myself	50000	4.0	26.5	300	33.0	300.0
+52	Man	+50	Spanish	Spain	Married	2	18.000-30.000	3-5	Instagram, Facebook,TikTok	No	No	Mobile	0	1	0 %	Other	Store	No	Family	24000	4.0	50.0	0	0.0	0.0
+53	Woman	18-35	Spanish	Spain	Married	0	0-18.000	8	Instagram, Facebook,TikTok	No	No	Mobile	+300	48	1-25 %	Pet items	Marketplaces	No	Myself	9000	8.0	26.5	300	33.0	75.0
+54	Man	18-35	Spanish	Spain	Single	0	0-18.000	5-8	Instagram, Facebook,TikTok	No	No	Computer, Mobile	50-150	48	1-25 %	Other	Store	Yes	Myself	9000	6.5	26.5	100	33.0	25.0
+55	Woman	18-35	Spanish	Spain	In a relationship	0	18.000-30.000	1-3	General Internet	Yes	Yes	Mobile	50-150	12	1-25 %	Clothes	Store	No	Myself	24000	2.0	26.5	100	33.0	100.0
+56	Man	35-50	Spanish	Spain	In a relationship	0	30.000-50.000	3-5	General Internet	Yes	No	Computer, Mobile	150-300	6	100 %	Clothes	Marketplaces	No	Myself	40000	4.0	42.5	225	100.0	450.0
+57	Woman	18-35	Spanish	Spain	Married	1	0-18.000	1-3	Instagram, Facebook,TikTok	Yes	Yes	Mobile	1-50	12	1-25 %	Clothes	Store	No	Myself	9000	2.0	26.5	25	33.0	25.0
+58	Man	+50	Spanish	Spain	Married	2	18.000-30.000	0-1	General Internet	No	No	Computer	50-150	4	0 %	Electronics	Marketplaces	No	Myself	24000	0.5	50.0	100	0.0	300.0
+59	Woman	+50	Spanish	Spain	In a relationship	2	0-18.000	5-8	Instagram, Facebook,TikTok	Yes	Yes	Mobile	50-150	2	100 %	Clothes	Marketplaces	No	Myself	9000	6.5	50.0	100	100.0	600.0
+60	Man	18-35	Spanish	Spain	In a relationship	0	+50.000	0-1	General Internet	No	No	Mobile	0	1	0 %	Other	Marketplaces	No	Myself	50000	0.5	26.5	0	0.0	0.0
+61	Man	18-35	Spanish	Spain	In a relationship	1	18.000-30.000	3-5	Youtube/Twitch	Yes	No	Mobile	1-50	6	1-25 %	Clothes	Store	Yes	Myself	24000	4.0	26.5	25	33.0	50.0
+62	Woman	35-50	Spanish	Spain	Married	1	18.000-30.000	0-1	General Internet	No	No	Mobile	50-150	4	0 %	Clothes	Marketplaces	No	Myself	24000	0.5	42.5	100	0.0	300.0
+63	Woman	35-50	Spanish	Spain	Married	1	30.000-50.000	3-5	Instagram, Facebook,TikTok	Yes	Yes	Mobile	+300	6	1-25 %	Clothes	Marketplaces	Yes	Myself	40000	4.0	42.5	300	33.0	600.0
+64	Woman	18-35	Spanish	Spain	Married	0	18.000-30.000	3-5	Youtube/Twitch	Yes	Yes	Tablet	+300	12	1-25 %	Clothes	Store	No	Myself	24000	4.0	26.5	300	33.0	300.0
+65	Woman	35-50	Spanish	Spain	In a relationship	1	0-18.000	3-5	Instagram, Facebook,TikTok	No	No	Mobile	1-50	4	1-25 %	Decoration	Marketplaces	Yes	Couple	9000	4.0	42.5	25	33.0	75.0
+66	Man	35-50	Spanish	Spain	Married	0	30.000-50.000	3-5	Twitter	No	No	Mobile	1-50	12	1-25 %	Clothes	Marketplaces	No	Myself	40000	4.0	42.5	25	33.0	25.0
+67	Woman	18-35	Spanish	Spain	Married	0	0-18.000	1-3	Instagram, Facebook,TikTok	Yes	Yes	Mobile	50-150	12	50-75 %	Clothes	Store	No	Myself	9000	2.0	26.5	100	66.0	100.0
+68	Woman	18-35	Spanish	Spain	In a relationship	0	0-18.000	1-3	Instagram, Facebook,TikTok	Yes	Yes	Mobile	50-150	48	1-25 %	Clothes	Marketplaces	No	Myself	9000	2.0	26.5	100	33.0	25.0
+69	Woman	35-50	Spanish	Spain	Married	2	0-18.000	1-3	Instagram, Facebook,TikTok	Yes	Yes	Mobile	+300	12	1-25 %	Clothes	Marketplaces	No	Family	9000	2.0	42.5	300	33.0	300.0
+70	Woman	18-35	Spanish	Spain	Married	0	0-18.000	3-5	Youtube/Twitch	Yes	No	Mobile	150-300	12	1-25 %	Clothes	Marketplaces	Yes	Family	9000	4.0	26.5	225	33.0	225.0
+71	Man	35-50	Spanish	Spain	Married	0	18.000-30.000	1-3	Instagram, Facebook,TikTok	No	No	Mobile	+300	48	1-25 %	Other	Marketplaces	Yes	Family	24000	2.0	42.5	300	33.0	75.0
+72	Man	35-50	Spanish	Spain	In a relationship	0	18.000-30.000	0-1	General Internet	No	No	Mobile	+300	12	1-25 %	Sport	Marketplaces	No	Couple	24000	0.5	42.5	300	33.0	300.0
+73	Woman	18-35	Spanish	Spain	Single	0	18.000-30.000	3-5	General Internet	Yes	Yes	Mobile	+300	48	1-25 %	Clothes	Store	Yes	Myself	24000	4.0	26.5	300	33.0	75.0
+74	Woman	35-50	Spanish	Spain	Married	2	0-18.000	5-8	General Internet	Yes	Yes	Mobile	50-150	12	1-25 %	Clothes	Store	No	Family	9000	6.5	42.5	100	33.0	100.0
+75	Woman	35-50	Spanish	Spain	Married	2	18.000-30.000	1-3	General Internet	No	No	Mobile	50-150	2	1-25 %	Toys	Marketplaces	No	Family	24000	2.0	42.5	100	33.0	600.0
+76	Man	35-50	Spanish	Spain	Married	2	18.000-30.000	1-3	Instagram, Facebook,TikTok	No	No	Computer, Mobile, Tablet	50-150	12	1-25 %	Clothes	Store	Yes	Family	24000	2.0	42.5	100	33.0	100.0
+77	Woman	18-35	Spanish	Spain	In a relationship	0	+50.000	1-3	Instagram, Facebook,TikTok	Yes	No	Mobile	50-150	2	1-25 %	Pet items	Marketplaces	No	Pets	50000	2.0	26.5	100	33.0	600.0
+78	Woman	18-35	Spanish	Spain	In a relationship	1	18.000-30.000	8	Instagram, Facebook,TikTok	Yes	Yes	Mobile	+300	48	50-75 %	Clothes	Marketplaces	Yes	Myself	24000	8.0	26.5	300	66.0	75.0
+79	Man	35-50	Spanish	Spain	In a relationship	0	+50.000	0-1	Other	No	No	Tablet	+300	48	100 %	Clothes	Store	No	Myself	50000	0.5	42.5	300	100.0	75.0

@@ -1,0 +1,36 @@
+﻿Variable;Category
+Man;Demographics
+Woman;Demographics
+In a relationship;Demographics
+Married;Demographics
+Single;Demographics
+General Internet;Platfrom
+Instagram, Facebook,TikTok;Platfrom
+Reddit;Platfrom
+Twitter;Platfrom
+Youtube/Twitch;Platfrom
+Influencer_follow_Yes;Influencer
+Influencer_follow_No;Influencer
+Influencer_purchase_rec_No;Influencer
+Influencer_purchase_rec_Yes;Influencer
+Computer, Mobile;Device
+Computer;Device
+Mobile;Device
+Tablet;Device
+Books;More bought item
+Clothes;More bought item
+Decoration;More bought item
+Electronics;More bought item
+Food;More bought item
+"Pet items	";More bought item
+Sport;More bought item
+Toys;More bought item
+"Video games	";More bought item
+Marketplaces;Marketplace
+Store;Marketplace
+sale_days_No;Sales days
+sale_days_Yes;Sales days
+Couple;Who you buy for
+Family;Who you buy for
+Myself;Who you buy for
+Pets;Who you buy for

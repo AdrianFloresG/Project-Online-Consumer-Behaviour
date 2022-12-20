@@ -1,0 +1,63 @@
+	level_0	level_1	Correlation
+11	Family	Myself	-0.8650800519847478
+13	Married	In a relationship	-0.5955630687140004
+15	Instagram, Facebook,TikTok	General Internet	-0.5869883954902305
+17	Influencer_purchase_rec_No	Influencer_follow_Yes	-0.5759571518569989
+19	Influencer_purchase_rec_Yes	Influencer_follow_No	-0.5759571518569981
+21	Mobile	Computer, Mobile	-0.5560986059726596
+23	Instagram, Facebook,TikTok	Man	-0.5000041095320026
+25	Man	Influencer_purchase_rec_Yes	-0.4909921792059843
+27	Woman	Influencer_purchase_rec_No	-0.49099217920598376
+29	Mobile	Computer	-0.4835936253155778
+31	Single	Married	-0.47847353404318377
+33	Myself	Children	-0.46248818011206494
+35	Clothes	Electronics	-0.44677482965090765
+37	Youtube/Twitch	Instagram, Facebook,TikTok	-0.4267628919876644
+39	Purchase_frequency_year	Average_ticket	-0.4225694239703916
+41	In a relationship	Single	-0.42042566002965254
+43	Myself	Married	-0.4137821559293756
+45	Influencer_purchase_rec_No	Online_Influenced_purchase_mean	-0.3964407829440632
+47	Myself	Age_mean	-0.39622070600566545
+49	Man	Online_Influenced_purchase_mean	-0.36230048654053126
+51	Books	Clothes	-0.3555809819787028
+53	Woman	Youtube/Twitch	-0.3545575135639377
+55	In a relationship	Family	-0.3456030860901136
+57	Influencer_follow_Yes	Married	-0.33055216011513777
+59	Age_mean	Influencer_follow_Yes	-0.3269023314662912
+61	Woman	Annual_Gross_Salary_mean	-0.322023801131242
+63	Food	Clothes	-0.32193566593520623
+65	Influencer_follow_No	In a relationship	-0.3208546652416172
+67	Instagram, Facebook,TikTok	Annual_Gross_Salary_mean	-0.31613374938318894
+69	Couple	Myself	-0.3118842500455893
+71	Computer, Mobile, Tablet	Mobile	-0.3081663405815015
+73	Man	Mobile	-0.3080148967465074
+75	Children	In a relationship	-0.30631288310388394
+77	Twitter	Monthly_expense_mean	-0.3029914065371884
+79	Influencer_follow_Yes	Couple	-0.3017098800433226
+81	Influencer_purchase_rec_No	Instagram, Facebook,TikTok	-0.3005566224395945
+2019	Influencer_purchase_rec_Yes	Instagram, Facebook,TikTok	0.3005566224395948
+2021	Influencer_follow_No	Couple	0.3017098800433226
+2023	Online_Influenced_purchase_mean	Purchase_frequency_year	0.3057038151608971
+2025	Tablet	Other	0.3057168716609737
+2027	Woman	Mobile	0.3080148967465075
+2029	In a relationship	Influencer_follow_Yes	0.32085466524161704
+2031	Man	Annual_Gross_Salary_mean	0.3220238011312423
+2033	Influencer_follow_No	Age_mean	0.3269023314662909
+2035	Influencer_follow_No	Married	0.33055216011513705
+2037	Man	Youtube/Twitch	0.35455751356393705
+2039	Age_mean	Family	0.3557351194273579
+2041	Tablet	Youtube/Twitch	0.3558038967201622
+2043	Average_ticket	Monthly_expense_mean	0.3591912004414966
+2045	Woman	Online_Influenced_purchase_mean	0.36230048654053104
+2047	Influencer_purchase_rec_Yes	Online_Influenced_purchase_mean	0.39644078294406315
+2049	Age_mean	Married	0.4173624260467074
+2051	Monthly_expense_mean	Purchase_frequency_year	0.44832733849541245
+2053	Children	Married	0.48384139434447954
+2055	Influencer_purchase_rec_No	Man	0.4909921792059836
+2057	Woman	Influencer_purchase_rec_Yes	0.4909921792059843
+2059	Family	Married	0.49357594549036576
+2061	Instagram, Facebook,TikTok	Woman	0.5000041095320027
+2063	Children	Family	0.500939908438696
+2065	Influencer_follow_Yes	Influencer_purchase_rec_Yes	0.5759571518569981
+2067	Influencer_follow_No	Influencer_purchase_rec_No	0.575957151856999
+2069	Children	Age_mean	0.6827976833013016
