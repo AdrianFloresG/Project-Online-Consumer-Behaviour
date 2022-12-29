@@ -1,5 +1,6 @@
 # Ironhack | Project - The Online Consumer Behaviour 
 
+![Project title](Image/Project_title.png)
 
 ## Overview
 
